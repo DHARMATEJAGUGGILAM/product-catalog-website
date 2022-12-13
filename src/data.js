@@ -40,7 +40,7 @@ const data=[
         "productName":" Boat Speaker 1000",
         "price": 4000,
         "Image":"https://d2xamzlzrdbdbn.cloudfront.net/products/8dfc34ed-c8bf-4481-96ea-30f8dc94964c22101059_416x416.jpg",
-        "StockCount":17,
+        "StockCount":16,
         "ratting":4.5
     },
 
