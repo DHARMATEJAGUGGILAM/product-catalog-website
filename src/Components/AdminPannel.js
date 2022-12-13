@@ -10,7 +10,7 @@ export default function AdminPannel() {
  
   useEffect(()=>{
     const getData = async ()=>{
-      const responseData = await axios.get("https://0qpkamuml3.execute-api.ap-south-1.amazonaws.com/production/");
+      const responseData = await axios.get("https://ph3j2bwnki.execute-api.ap-south-1.amazonaws.com/production/");
       setData(responseData.data);
     }
     getData();
