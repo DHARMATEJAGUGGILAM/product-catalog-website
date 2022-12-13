@@ -7,7 +7,7 @@ export default function AdminPannel() {
   const [Adata,setData]=useState([])
   const parsedData = [];
 
- 
+ //added comments to git
   useEffect(()=>{
     const getData = async ()=>{
       const responseData = await axios.get("https://ph3j2bwnki.execute-api.ap-south-1.amazonaws.com/production/");
